@@ -1,0 +1,12 @@
+name: calculo_interes
+title: calculo_interes
+username:
+account: alvarojesusmc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3190557
+bundleId: 3835494
+url: https://alvarojesusmc.shinyapps.io/calculo_interes/
+when: 1604881622.97784
+asMultiple: FALSE
+asStatic: FALSE
